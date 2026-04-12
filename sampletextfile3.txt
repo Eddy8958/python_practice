@@ -1,7 +1,4 @@
-this is simple text file, text is ok
-
-
-
+this is simple text file, text is ok this is updating 
 
 
 [D
